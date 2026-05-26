@@ -17,7 +17,9 @@ En entornos de clínica veterinaria rápida, la precisión y la velocidad son vi
 
 ## 📸 Vista Previa
 
+<img width="644" height="671" alt="vetapplogin" src="https://github.com/user-attachments/assets/23bd47ad-2d3f-4670-a502-5f56d5186bdf" />
 
+<img width="1901" height="946" alt="vetappdashboard" src="https://github.com/user-attachments/assets/cbcbbf8e-8acc-45d4-b66b-c610f5afc529" />
 
 ## 🛠️ Stack Tecnológico
 
