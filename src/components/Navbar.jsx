@@ -34,7 +34,7 @@ const Navbar = () => {
           {/* Logo y navegación */}
           <div className="flex items-center space-x-8">
             <div className="flex-shrink-0">
-              <h1 className="text-xl font-bold text-gray-900">Vet#1delmundo</h1>
+              <h1 className="text-xl font-bold text-gray-900">VetApp</h1>
             </div>
             
             {/* Enlaces de navegación */}

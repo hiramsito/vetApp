@@ -52,7 +52,7 @@ const Login = () => {
         <div className="text-center">
           <div className="text-6xl mb-4">🐾</div>
           <h2 className="text-3xl font-bold text-gray-900">
-            Vet#1delmundo
+            VetApp Login
           </h2>
           <p className="mt-2 text-sm text-gray-600">
             Sistema de cálculo veterinario
